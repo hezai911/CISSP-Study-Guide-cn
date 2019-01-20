@@ -2,21 +2,21 @@
 2019年CISSP考试的学习资料，考试信息和其他学习工具的收集整理。
 
 # 学习指南和笔记
-[1: 安全和风险管理](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
+[1: 安全和风险管理](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D1%20-%20%E5%AE%89%E5%85%A8%E5%92%8C%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86.md)
 
-[2: 资产安全](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
+[2: 资产安全](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D2%20-%20%E8%B5%84%E4%BA%A7%E5%AE%89%E5%85%A8.md)
 
-[3: 安全架构与工程](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md)
+[3: 安全架构与工程](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D3%20-%20%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%B7%A5%E7%A8%8B.md)
 
-[4: 通信与网络安全](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md)
+[4: 通信与网络安全](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D4%20-%20%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.md)
 
-[5: 身份与访问管理 (IAM)](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D5%20-%20Identity%20and%20Access%20Management.md)
+[5: 身份与访问管理 (IAM)](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D5%20-%20%E8%BA%AB%E4%BB%BD%E4%B8%8E%E8%AE%BF%E9%97%AE%E7%AE%A1%E7%90%86%EF%BC%88IAM%EF%BC%89.md)
 
-[6: 安全评估与测试](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md)
+[6: 安全评估与测试](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D6%20-%20%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%B8%8E%E6%B5%8B%E8%AF%95.md)
 
-[7: 安全运营](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D7%20-%20Security%20Operations.md)
+[7: 安全运营](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D7%20-%20%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5.md)
 
-[8: 软件开发安全](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
+[8: 软件开发安全](https://github.com/ukonwho/CISSP-Study-Guide-cn/blob/master/D8%20-%20%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8.md)
 
 
 # 学习工具:
